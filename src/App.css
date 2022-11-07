@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  color : white;
+  background-color: rgba(27, 104, 27, 0.792);
+  border-radius: 16px;
+  border: solid black;
+}
+
+h1:hover {
+  color : white;
+  background-color: grey;
+}
